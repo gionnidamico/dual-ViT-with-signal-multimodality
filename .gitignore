@@ -1,7 +1,7 @@
 # temp data
-EEG Data 
-EMG Data
-Combined Data
+EEG Data/*.csv 
+EMG Data/*.csv
+Combined Data/*.csv
 
 
 # Byte-compiled / optimized / DLL files
