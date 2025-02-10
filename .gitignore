@@ -2,6 +2,7 @@
 EEG Data/*.csv 
 EMG Data/*.csv
 Combined Data/*.csv
+temp/
 
 
 # Byte-compiled / optimized / DLL files
