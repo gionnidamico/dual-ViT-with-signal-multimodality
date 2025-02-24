@@ -2,6 +2,9 @@
 EEG Data/*.csv 
 EMG Data/*.csv
 Combined Data/*.csv
+old EEG Data/*.csv 
+old EMG Data/*.csv
+old Combined Data/*.csv
 temp/
 
 
